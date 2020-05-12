@@ -2,6 +2,7 @@ import 'package:audioplayers/audio_cache.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(XylophoneApp());
+// the arrow => function is equivalent to void main() { stmt/ () ; }
 
 void playSound(int soundNumber) {
   final player = AudioCache();
