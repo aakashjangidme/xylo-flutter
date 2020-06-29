@@ -1,13 +1,7 @@
 
 # Xylophone 🎹
 
-## Our Goal
-
-To learn usage of flutter packages
-
-## What you will create
-
-We’re going to make a music app that plays Xylophone sounds.
+A music app that plays Xylophone sounds.
 
 
 ## Learnt
